@@ -30,7 +30,7 @@ Below are the major techniques used for domain privilege escalation, each with i
 5. [Shadow Credentials](./shadow-credentials.md)
    - Leveraging rogue certificates for stealthy account compromise.
 
-6. [SID History Abuse](./sid-history-abuse.md)
+6. [SID History Abuse](sid-history-abuse)
    - Injecting Security Identifiers (SIDs) into accounts for privilege escalation.
 
 ---
